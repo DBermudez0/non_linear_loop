@@ -13,3 +13,18 @@ end
 for i = exp(b)
     i
 end
+
+
+%%
+a = 1;
+
+if a == 2
+    b = exp(1:4);
+elseif a == 1
+    b = logspace(0,1,5);
+end
+
+for i = b
+    disp(i)
+end
+
