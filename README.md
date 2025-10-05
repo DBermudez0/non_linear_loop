@@ -1,4 +1,4 @@
-# onlinear Loop Statements: Function-Defined Iteration Domains for Adaptive Control Flow
+# nonlinear Loop Statements: Function-Defined Iteration Domains for Adaptive Control Flow
 change loop by applying (if, else) conditional variable
 Traditional loop constructs in programming languages—such as for, while, and do-while—assume linear or discrete iteration domains that are statically defined before execution. This limitation restricts the flexibility of control flow when modeling nonlinear or adaptive processes where the iteration domain depends dynamically on prior conditions or nonlinear functions.
 
